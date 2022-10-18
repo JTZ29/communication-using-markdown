@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Create GitHub Account
+- [x] Complete Introfuction to GitHub
+- [ ] Complete Communication Using Markdowns
